@@ -1,0 +1,21 @@
+{
+  "name": "date-as-string",
+  "version": "1.0.0",
+  "description": "Converts the passed-in date object to a string in the format YYYY-MM-DD irrespective of timezone",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jro31/date-as-string.git"
+  },
+  "keywords": [
+    "date-as-string",
+    "date-string",
+    "YYYY-MM-DD"
+  ],
+  "author": "Jethro Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jro31/date-as-string/issues"
+  },
+  "homepage": "https://github.com/jro31/date-as-string#readme"
+}
